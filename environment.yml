@@ -1,0 +1,10 @@
+name: thesB00123635
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - scipy
+  - jupyterlab
+  - plotly::plotly_express
+  - nodejs
+  - seaborn
