@@ -24,7 +24,7 @@ conda env create --file environment.yml
 
 ### 3. Install required Jupyer Lab extensions
 
-In terminal, make sure you have the `enisa` environment activated.
+In terminal, make sure you have the `thesB00123635` environment activated.
 
 ```bash
 conda activate thesB00123635
